@@ -222,7 +222,7 @@ main {
 
     .right-sidebar {
         position: static;
-        width: 100%;
+        width: 90%;
         padding: 10px;
         border-top: 1px solid #ddd;
     }
